@@ -13,10 +13,10 @@ To begin using the Telegram Reward Bot, follow these steps:
 2. **Clone the Repository**: Next, clone the repository containing the Telegram Reward Bot script to your local machine. Use the following command in your terminal:
 
    ```bash
-   git clone https://github.com/rodmutt/telegram-reward-bot.git
+   git clone https://github.com/profshad0/telegram-reward-bot.git
    ```
 
-   Replace `yourusername` with your actual GitHub username.
+
 
 3. **Navigate to the Project Directory**: Once the repository is cloned, navigate to the project directory using the `cd` command:
 
